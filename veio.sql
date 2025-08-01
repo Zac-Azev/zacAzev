@@ -1,3 +1,5 @@
+--Membros do grupo: João Caio, Matheus Vidal e Isaac Ramos
+
 DROP DATABASE IF EXISTS CasaDeVeio;
 CREATE DATABASE CasaDeVeio;
 USE CasaDeVeio;
